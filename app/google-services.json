@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "506202264295",
+    "firebase_url": "https://platform05fcm-a22c4.firebaseio.com",
+    "project_id": "platform05fcm-a22c4",
+    "storage_bucket": "platform05fcm-a22c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506202264295:android:5cd309bb11bcc69a",
+        "android_client_info": {
+          "package_name": "com.example.miranda.platform05fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506202264295-ta8pg2sfq55kfh75p67csrtmr220fjfv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.miranda.platform05fcm",
+            "certificate_hash": "7c658d6ca48d8947793909a6ad1882f9a600b622"
+          }
+        },
+        {
+          "client_id": "506202264295-gji5mqn4s4v366ikgbf9btvsuk9v8cnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzXxzsrQo91HivknE0s_PhLDpx1BUE7DM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506202264295-gji5mqn4s4v366ikgbf9btvsuk9v8cnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
